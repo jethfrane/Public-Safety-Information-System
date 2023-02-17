@@ -14,11 +14,13 @@ Loquinario Djomal O.
 City College of Calamba
 
 Abstract
+
 In today’s modern technology, getting a response for help is becoming easier and faster due to modern ways of communication. With the help of emergency hotlines, the response time that usually takes a lot of time becomes faster because it was reserved for emergency situations. However, despite having this kind of feature, many are still unaware of the hotlines we have because they hardly ever hear the hotlines.
 
 PSIS is a website designed to provide the public with easy access to emergency and safety information. It has a simple and user-friendly interface, and contains information about emergency hotlines, medical services, and disaster awareness. It is maintained by Information Technologists and Computer Programmers who ensure its accuracy and reliability.
 
 Background and Purpose
+
 A City Emergency Information Website provides the public with information and tools to help stay safe, handle crises, and keep their families safe. It can include information on public health, disaster preparedness, crime prevention, and road safety. The website provides advice on how to be safe, prepare for emergencies, and report suspicious activities. It aims to give people the necessary resources and information they need to defend themselves and their families.
 
 In this time of distress, when unexpected situations arise, many people don't know what to do or who to call. To help address this, the web developers created a website to provide reliable information to the public in times of emergency. This website includes emergency call numbers and information about the relevant departments to respond to different needs. It provides a platform for the general public to access information quickly and easily in times of need.
@@ -26,6 +28,7 @@ In this time of distress, when unexpected situations arise, many people don't kn
 The website provides information on first aid scenarios and emergency plans to give knowledge to people. It contains step-by-step guides on how to perform first aid to minimize damage or ease pain. It includes information on the history and function of the various departments involved in emergency services. It also provides clear and specific communication tools to ensure synchronized emergency response. Finally, it provides advice on how to prepare for potential emergencies.
 
 Project Description
+
 This research promotes the great contribution of Information Technology in providing emergency hotlines for the Emergency Response Team (ERT) in the City of Calamba. Unfortunately, the majority of citizens are still unaware of these services, leading to an increase in casualties due to ignorance. The research involves several departments such as police, fire fighter, hospital, etc., that can handle emergency situations. The citizens of Calamba and its nearby cities will benefit from this research by gaining knowledge about the topic, while other researchers can gain a basic understanding of what an emergency information website looks like.
 
 This website provides step-by-step first aid information to help users respond to victims in need. It also lists different departments that can be contacted in the event of an emergency and provides tips for first aid scenarios. This website will help raise awareness of emergency hotlines and first aid information among civilians, which may prove to be invaluable in case of a disaster. Additionally, the website will provide an understanding of the roles of the different departments and their respective responsibilities in emergency response.
