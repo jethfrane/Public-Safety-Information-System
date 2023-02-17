@@ -41,12 +41,21 @@ Project Timeframe
 The research project, which was undertaken within the Calamba City area, was scheduled to begin on February 1, 2023 and conclude on February 16, 2023. It was planned to last two weeks, with the first week focused on gathering information from reliable sources and building the website, and the second week devoted to last-minute screening and bug-fixing. The goal of the project was to make emergency hotlines and first aid information accessible to the people of Calamba City, with the hope of decreasing the number of fatalities from crime, natural disasters, and health problems.
 
 References
+
 https://acg.pnp.gov.ph/main/ 
+
 https://bfp.gov.ph 
+
 https://www.bjmp.gov.ph 
+
 http://cmc.ph 
+
 https://www.phap-ph.org/Members/view/gamez_hospital#
+
 https://www.phap-ph.org/Members/view/st_john_the_baptist_medical_center_inc/ 
+
 https://www.pamanamedicalcenter.com
+
 www.ready.gov
+
 Responsive navbar: https://www.youtube.com/watch?v=dIFNHeHTja0
