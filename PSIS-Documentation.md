@@ -10,7 +10,7 @@ Gatdula, Carlos Sebastian
 Gongora, Ivan Wincent C.
 Loquinario Djomal O.
 
-	BSIT | 2-IT5	
+BSIT | 2-IT5	
 City College of Calamba
 
 Abstract
