@@ -1,0 +1,84 @@
+.dpt-button-grid {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 8px;
+}
+section hr {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.dpt-margin {
+  margin-top: 120px;
+}
+.links {
+  margin-top: 25px;
+  align-items: normal;
+}
+.links p {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  margin: 8px 8px 20px 8px;
+}
+.links ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center;
+}
+.links ul li {
+  margin: 0px 0px 20px 0px;
+}
+.links ul li a {
+  margin: auto;
+  margin-top: 100px;
+  border: 3px solid#212121;
+  padding: 20px 10px;
+  border-radius: 30px;
+  width: 380px;
+  display: flex;
+  justify-content: center;
+  color: #000;
+  font-size: 18px;
+  transition: 0.2s;
+  margin: 0px 5px;
+  box-shadow: 0px 1px 3px #ccc;
+}
+.links ul li a:hover,
+.links ul li a:focus {
+  background: #b3cde0;
+  transition: 0.2s;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 1400px) {
+  .dpt-button-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media only screen and (max-width: 1250px) {
+  .dpt-button-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .links p {
+    font-size: 40px;
+  }
+  .links ul li a {
+    width: 350px;
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .dpt-button-grid {
+    grid-template-columns: 1fr;
+  }
+  .links p {
+    font-size: 30px;
+  }
+  .links ul li a {
+    width: 310px;
+    font-size: 14px;
+  }
+}

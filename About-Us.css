@@ -1,0 +1,125 @@
+.about-us {
+  text-align: center;
+}
+.about-us hr {
+  margin: 50px 30px 50px 30px;
+}
+.au-title {
+  margin-top: 130px;
+}
+.au-title h2 {
+  font-size: 60px;
+}
+.creators-info h3 {
+  margin-top: 10px;
+  font-size: 35px;
+}
+.creators-info p {
+  font-size: 20px;
+  margin: 10px 100px 0px 100px;
+  text-align: justify;
+}
+.contact-us {
+  margin-top: 10px;
+}
+.contact-us h3 {
+  text-align: center;
+  font-size: 35px;
+}
+.contact-us ul {
+  list-style: none;
+}
+.img-grid {
+  margin: 30px 200px 0px 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 8px;
+}
+.img-grid li {
+  text-align: center;
+}
+.img-grid img {
+  width: 170px;
+  border-radius: 50%;
+}
+.img-grid img:hover {
+  transition: transform .5s;
+  transform: scale(1.1);
+}
+.img-grid h3 {
+  font-size: 25px;
+  margin-top: 10px;
+}
+.img-grid p {
+  font-size: 15px;
+  margin-top: 7px;
+}
+
+@media only screen and (max-width: 1300px) {
+  .au-title {
+    margin-top: 110px;
+  }
+  .au-title h2 {
+    font-size: 45px;
+  }
+  .about-us hr {
+    margin: 40px 30px 40px 30px;
+  }
+  .creators-info h3 {
+    font-size: 27px;
+  }
+  .creators-info p {
+    font-size: 20px;
+    margin: 10px 40px 0px 40px;
+  }
+  .contact-us h3 {
+    font-size: 30px;
+  }
+  .img-grid {
+    margin: 30px 50px 0px 50px;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .img-grid img {
+    width: 120px;
+  }
+  .img-grid h3 {
+    font-size: 18px;
+  }
+  .img-grid p {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .au-title {
+    margin-top: 110px;
+  }
+  .au-title h2 {
+    font-size: 30px;
+  }
+  .about-us hr {
+    margin: 30px 20px 30px 20px;
+  }
+  .creators-info h3 {
+    font-size: 19px;
+  }
+  .creators-info p {
+    font-size: 12px;
+    margin: 10px 30px 0px 30px;
+  }
+  .contact-us h3 {
+    font-size: 22px;
+  }
+  .img-grid {
+    margin: 30px 20px 0px 20px;
+    grid-template-columns: 1fr 1fr;
+  }
+  .img-grid img {
+    width: 100px;
+  }
+  .img-grid h3 {
+    font-size: 15px;
+  }
+  .img-grid p {
+    font-size: 12px;
+  }
+}
